@@ -5,7 +5,7 @@ public class WuTangNameGenerator {
     private static final String[] FIRST_NAMES = {"Childish", "Insane", "Big", "Little", "Young", "Dirty",
                                                  "Ol'", "Stupid", "Drunk", "Master"};
     private static final String[] LAST_NAMES = {"Prophet", "Villain", "Assassin", "Knight", "Genius",
-                                                "Warrior", "Monk", "Expert", "Destroyer", "Avenger"};
+                                                "Warrior", "Monk", "Expert", "Destroyer", "Avenger", "Gambino"};
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
